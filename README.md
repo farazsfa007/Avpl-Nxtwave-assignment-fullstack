@@ -1,7 +1,7 @@
 # Task Manager with Role-Based Access
 
 ## Overview
-Simple task management app with authentication (JWT + bcrypt) and role-based access (user/admin). Backend: Node.js + Express + MongoDB (Mongoose). Frontend: React (Vite).
+Task management app with authentication (JWT + bcrypt) and role-based access (user/admin). Backend: Node.js + Express + MongoDB (Mongoose). Frontend: React (Vite).
 
 ## Features
 - Register & Login (JWT)
