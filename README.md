@@ -12,9 +12,6 @@ Task management app with authentication (JWT + bcrypt) and role-based access (us
 
 ## Quick Start
 
-### Backend
-1. `cd backend`
-2. `npm install`
-3. create `.env`:
+# Backend Git Repo:- https://github.com/farazsfa007/Avpl-Nxtwave-assignment-backend
 
 ### Deployment Link
